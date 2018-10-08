@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/yingzhongbin/gulu/issues"
   },
-  "homepage": "https://github.com/yingzhongbin/gulu#readme"
+  "homepage": "https://github.com/yingzhongbin/gulu#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
 }
