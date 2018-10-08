@@ -1,0 +1,22 @@
+{
+  "name": "gulu",
+  "version": "0.0.1",
+  "description": "作者：应忠彬",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yingzhongbin/gulu.git"
+  },
+  "keywords": [
+    "gulu"
+  ],
+  "author": "应忠彬",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yingzhongbin/gulu/issues"
+  },
+  "homepage": "https://github.com/yingzhongbin/gulu#readme"
+}
