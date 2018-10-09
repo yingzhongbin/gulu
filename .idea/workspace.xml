@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b4833c0-9063-4005-a8a2-ca23c9b77cfe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note.md" beforeDir="false" />
-    </list>
+    <list default="true" id="7b4833c0-9063-4005-a8a2-ca23c9b77cfe" name="Default" comment="完成按钮基本样式" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -41,12 +35,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="say.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="say.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/say.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="198">
-                <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <first_editor relative-caret-position="176">
+                <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -62,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Button.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Button.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Button.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+            <state>
+              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -89,11 +83,11 @@
       <list>
         <option value="$PROJECT_DIR$/note.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/say.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Button.js" />
+        <option value="$PROJECT_DIR$/say.md" />
       </list>
     </option>
   </component>
@@ -112,8 +106,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="361" />
-    <option name="y" value="80" />
+    <option name="x" value="186" />
+    <option name="y" value="63" />
     <option name="width" value="1246" />
     <option name="height" value="797" />
   </component>
@@ -171,7 +165,7 @@
       <option name="presentableId" value="Default" />
       <updated>1538991401687</updated>
       <workItem from="1538991405686" duration="3562000" />
-      <workItem from="1539087154810" duration="2214000" />
+      <workItem from="1539087154810" duration="2873000" />
     </task>
     <task id="LOCAL-00001" summary="提交 README.md">
       <created>1538991597484</created>
@@ -187,14 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1538995934867</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="完成按钮基本样式">
+      <created>1539090765193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539090765193</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5776000" />
+    <option name="totallyTimeSpent" value="6435000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="280" y="30" width="1246" height="797" extended-state="0" />
+    <frame x="186" y="63" width="1246" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
@@ -226,7 +227,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交 README.md" />
     <MESSAGE value="添加.gitignore 忽略node_modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加.gitignore 忽略node_modules" />
+    <MESSAGE value="完成按钮基本样式" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成按钮基本样式" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -296,20 +298,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/say.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="8" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -320,10 +319,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Button.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+    <entry file="file://$PROJECT_DIR$/say.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
